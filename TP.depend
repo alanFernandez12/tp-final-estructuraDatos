@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1667244108 source:c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1667245631 c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\cliente.h
+	"libro.h"
+	"pila.h"
+
+1667244859 source:c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1667172313 source:c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\libro.c
+	<stdio.h>
+	<stdlib.h>
+	"libro.h"
+	<string.h>
+
+1667245631 c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\libro.h
+
+1667244859 source:c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1667244859 source:c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1667336634 source:c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"libro.h"
+	"cliente.h"
+	"biblioteca.h"
+	"lista.h"
+	"pila.h"
+	"cola.h"
+
+1667244859 c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\lista.h
+	"libro.h"
+	"cliente.h"
+
+1667147910 c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\pila.h
+	"libro.h"
+
+1667245631 c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\cola.h
+	"lista.h"
+	"cliente.h"
+
+1667326766 source:c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1667327666 c:\users\alan_\onedrive\algoritmo y estructura de datos\tp\biblioteca.h
+	"cola.h"
+	"lista.h"
+	"libro.h"
+	"cliente.h"
+
